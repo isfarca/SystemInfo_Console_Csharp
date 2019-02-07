@@ -1,0 +1,10 @@
+C:\Users\Stefan\documents\visual studio 2010\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Stefan\documents\visual studio 2010\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\SystemInfo\SystemInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\documents\visual studio 2010\Projects\SystemInfo\SystemInfo\obj\x86\Debug\SystemInfo.exe
+C:\Users\Stefan\documents\visual studio 2010\Projects\SystemInfo\SystemInfo\obj\x86\Debug\SystemInfo.pdb
+C:\Users\Fethi\Desktop\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Fethi\Desktop\SystemInfo\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Fethi\Desktop\SystemInfo\SystemInfo\obj\x86\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\Fethi\Desktop\SystemInfo\SystemInfo\obj\x86\Debug\SystemInfo.exe
+C:\Users\Fethi\Desktop\SystemInfo\SystemInfo\obj\x86\Debug\SystemInfo.pdb
